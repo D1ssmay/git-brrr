@@ -1,0 +1,28 @@
+скрипт пуша
+echo off
+git add .
+git commit -m %1
+git push
+
+1 билет 1 задание
+shutdown.exe -r -f -t 30 -c "Причина" (скрипт перезагрузки)
+
+2 задание 1 билет
+git clone url
+.\script.bat\ "1st commit"
+
+2 задание 2 билет
+git clone url
+cd .\название\
+ecplorer .
+.\script.bat\
+git checkout -b I.V.Berestnev
+echo otchet > otchet.txt
+.\script.bat\ "2nd"
+git add .
+git commit -m "2nd"
+git push origin I.V.Berestnev
+git checkout main
+git merge I.V.Berestnev
+git push
+
