@@ -26,3 +26,4 @@ git checkout main
 git merge I.V.Berestnev
 git push
 
+https://disk.yandex.ru/client/disk/сибирь
