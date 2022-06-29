@@ -27,3 +27,4 @@ git merge I.V.Berestnev
 git push
 
 https://disk.yandex.ru/client/disk/сибирь
+https://github.com/IvanSibirevV2/HowTo_Bat
